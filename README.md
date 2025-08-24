@@ -1,3 +1,3 @@
-# GitHub Project
+# GitHubプロジェクト
 
-This is a new GitHub project.
+これは新しいGitHubプロジェクトです。
